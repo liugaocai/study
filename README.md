@@ -25,9 +25,11 @@ JavaGuide
 CYC
 * http://www.cyc2018.xyz/
 
-
 Padai.Tech
 * https://www.pdai.tech/
+
+进阶知识扫盲
+* https://doocs.github.io/advanced-java/#/
 
 ## 开源项目推荐：
 启雯网盘
